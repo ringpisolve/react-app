@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <h1>RING PI</h1>
-      <h5>--we build your ideas</h5>
+      <h5>---we build your ideas</h5>
     </div>
   );
 }
